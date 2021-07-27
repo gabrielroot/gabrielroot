@@ -33,6 +33,6 @@ _____
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gabrielroot&show_icons=true&theme=vision-friendly-dark)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=vision-friendly-dark)
-</ul>
 <p align="center">Thanks for visiting.</p></br>
 <img align="center" width="200" height="200" src="https://viverdeblog.com/wp-content/uploads/2017/03/thumbnail-hashtag.png"> 
+</ul>
