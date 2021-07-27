@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 _____
 
- <img align="right" width="200" height="200" src="https://viverdeblog.com/wp-content/uploads/2017/03/thumbnail-hashtag.png"> 
+
 
 <ul align="center">
 
@@ -30,10 +30,9 @@ _____
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+35+998988064&text=Hi_GabrielRoot!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
  
- Thanks for visiting.
  
- 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gabrielroot&show_icons=true&theme=vision-friendly-dark) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gabrielroot&show_icons=true&theme=vision-friendly-dark)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=vision-friendly-dark)
 </ul>
-
+<p align="center>Thanks for visiting.</p></br>
+<img align="center" width="200" height="200" src="https://viverdeblog.com/wp-content/uploads/2017/03/thumbnail-hashtag.png"> 
