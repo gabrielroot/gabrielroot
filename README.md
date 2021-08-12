@@ -35,6 +35,8 @@ _____
 -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=vision-friendly-dark)
 <p align="center">Thanks for visiting.</p></br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielroot)](https://github.com/anuraghazra/github-readme-stats)
+
  <!--
   <img align="center" width="200" height="200" src="https://viverdeblog.com/wp-content/uploads/2017/03/thumbnail-hashtag.png">
 -->
