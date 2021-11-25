@@ -34,8 +34,16 @@ _____
 <!--
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gabrielroot&show_icons=true&theme=vision-friendly-dark)
 -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=blue-green)
-<p align="center">Thanks for visiting.</p></br>
+ 
+
+ 
+ 
+ 
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=blue-green)
+<p align="center">Thanks for visiting.</p></br> -->
+
+
+
 
 <!-- A custom pin
 <a href="https://github.com/gabrielroot/rootflix">
