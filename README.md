@@ -22,7 +22,7 @@ _____
 <ul align="center">
 
  🔭 I’m currently in intensive studying to be a FullStack WEB Developer. <br>
- 🌱 I’m currently learning React, Python, Node, HTML, CSS and others. <br>
+ 🌱 I’m currently learning Symfony [PHP] & Django [PYTHON]. <br>
  ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
  <br>
  📫 
