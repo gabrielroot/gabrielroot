@@ -22,14 +22,23 @@ _____
 <ul align="center">
 
  🔭 I’m currently in intensive studying to be a FullStack WEB Developer. <br>
- 🌱 I’m currently learning Symfony [PHP] & Django [PYTHON]. <br>
+ 🌱 I’m currently learning Symfony [PHP] & REACT.JS [JS]. <br>
  ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
+ <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+</div>
  <br>
  📫 
  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-rwx/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
+
+###
  
 <div>
   ______________________________
