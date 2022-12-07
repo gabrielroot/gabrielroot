@@ -21,8 +21,8 @@ _____
 
 <ul align="center">
 
- 🔭 I’m currently in intensive studying to be a FullStack WEB Developer. <br>
  🌱 I’m currently learning Nest.JS. <br>
+ 🔭 I'm currently deciding between specializing in Front-End or Back-End. 🤯<br>
  ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
