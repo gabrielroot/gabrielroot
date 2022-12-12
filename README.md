@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <h3 align="center"> Hi there!! <img src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" width="50"> </h3> 
+ <h3 align="center"> 
+  <img src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" width="50"> 
+ <br>
+ Hi there!! 
+</h3> 
 
 _____
 
