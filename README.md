@@ -25,10 +25,12 @@ _____
 
 <ul align="center">
 
- 🌱 I’m currently learning Nest.JS. <br>
+ 🌱 I’m currently learning Python - Flask. <br>
  🔭 I'm currently deciding between specializing in Front-End or Back-End. 🤯<br>
  ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
