@@ -25,57 +25,41 @@ _____
 
 <ul align="center">
 
- 🌱 I’m currently learning Python - Flask. <br>
- 🔭 I'm currently deciding between specializing in Front-End or Back-End. 🤯<br>
- ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-</div>
- <br>
- 📫 
- 
+  🌱 I’m currently learning Python - Flask. <br>
+  🔭 I'm currently deciding between specializing in Front-End or Back-End. 🤯<br>
+  ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
+  <div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  /> 
+  </div>
+  <br>
+  📫 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-rwx/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
 
-###
- 
-<div>
-  ______________________________
-</div> 
- 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-rwx/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
+
+  ###
+
+  <!--
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=blue-green)
+  -->
+
+<img src="https://wallpapercave.com/uwp/uwp2493552.gif" height="150" width="400" style="object-fit: cover;" alt="Programmer"  />
+<br>
+ <a href="https://github.com/gabrielroot/flask-nu-box">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=flask-nu-box&theme=outrun" />
+</a>
+
 ##### <h5>👁️ Visitor Counter: </h5>
 ![Visitor Counter](https://profile-counter.glitch.me/gabrielroot/count.svg)
 ##### [Thanks for +1]
  
-<!--
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gabrielroot&show_icons=true&theme=vision-friendly-dark)
--->
- 
-
- 
- 
- 
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielroot&layout=compact&theme=blue-green)
-<p align="center">Thanks for visiting.</p></br> -->
-
-
-
-
-<!-- A custom pin
-<a href="https://github.com/gabrielroot/rootflix">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=rootflix&theme=outrun" />
-</a>
--->
-<!--
-  <img align="center" width="200" height="200" src="https://viverdeblog.com/wp-content/uploads/2017/03/thumbnail-hashtag.png">
--->
 </ul>
