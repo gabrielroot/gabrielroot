@@ -25,9 +25,9 @@ _____
 
 <ul align="center">
 
-  🌱 I’m currently learning Python - Flask. <br>
-  🔭 I'm currently deciding between specializing in Front-End or Back-End. 🤯<br>
-  ⚡ Fun fact: I really want to be a good developer, but........ I don't like coffee!<br>
+  🌱 I’m currently learning <b>Python - Flask</b>. <br>
+  🔭 I'm currently following a roadmap to improve myself as a <b>Back-End</b> developer. 🎯<br>
+  ⚡ Fun fact: I really want to become a good developer, but............................... I <b>don't</b> like coffee!<br>
   <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
