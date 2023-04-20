@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 </h3> 
 
 _____
-
-
-
 <ul align="center">
+  📫 
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-rwx/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
 
   🌱 I’m currently learning <b>Python - Flask</b>. <br>
   🔭 I'm currently following a roadmap to improve myself as a <b>Back-End</b> developer. 🎯<br>
@@ -39,12 +40,10 @@ _____
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  /> 
   </div>
-  <br>
-  📫 
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-rwx/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
+
+
 
   ###
 
