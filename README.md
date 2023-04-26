@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://wallpapercave.com/uwp/uwp2493552.gif" height="200" width="350" style="object-fit: cover;" alt="Programmer"  />
+<img align="right" src="https://wallpapercave.com/uwp/uwp2493552.gif" height="150" width="350" style="object-fit: cover;" alt="Programmer"  />
 
 <h3> 
  <img src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" width="50"> 
