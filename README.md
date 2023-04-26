@@ -23,26 +23,22 @@
   ⚡ Fun fact: I really want to become a good developer, but............................... I <b>don't</b> like coffee!
 </p>
 <hr>
+<div align="center">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"  />
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask logo"  />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo"  />
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="40" alt="symfony logo" title="symfony logo" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"  />
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo"  />
+</div>
+<br>
 <ul align="center">
   📫 
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/gabriel-rwx/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:gabrielfer.s88@gmail.com)
-
-   <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"  />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask logo"  />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo"  />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="40" alt="symfony logo" title="symfony logo" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"  />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo"  />
-   </div>
-  <br>
-<!--   <a href="https://github.com/gabrielroot/flask-nu-box">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=flask-nu-box&theme=outrun" />
-  </a> -->
 </ul>
 <hr>
 
@@ -60,7 +56,6 @@
 <a href="https://github.com/gabrielroot/flask-nu-box">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=flask-nu-box&theme=outrun" />
 </a>
-
 <!-- 
 <div align="center">
  <h5>👁️ Visitor Counter: </h5>
