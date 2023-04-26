@@ -49,7 +49,8 @@
  **FullStack Developer** \
  [**DFranquias**](https://dfranquias.com) • Remote • Full-time \
  Languages & Technologies: `PHP`, `Symfony`, `Mysql`, `React` \
- <br/>
+<br/>
+<br>
 
 ### Nice personal project
 
