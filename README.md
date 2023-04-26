@@ -29,6 +29,7 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=1d3046&labelColor=182330&logoColor=white" alt="docker logo"  />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=1d3046&labelColor=182330&logoColor=white" alt="php logo"  />
  <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony&color=1d3046&labelColor=182330&logoColor=white"/>
+ <br>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=442772&labelColor=2c194a&logoColor=white" alt="react logo"  />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=442772&labelColor=2c194a&logoColor=white" alt="javascript logo"  />
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&color=442772&labelColor=2c194a&logoColor=white" alt="jquery logo"  />
