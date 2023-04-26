@@ -24,14 +24,14 @@
 </p>
 <hr>
 <div align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"  />
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask logo"  />
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo"  />
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php logo"  />
- <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony"/>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"  />
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo"  />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=1d3046&labelColor=182330&logoColor=white" alt="python logo"  />
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&color=1d3046&labelColor=182330&logoColor=white" alt="flask logo"  />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=1d3046&labelColor=182330&logoColor=white" alt="docker logo"  />
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=1d3046&labelColor=182330&logoColor=white" alt="php logo"  />
+ <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony&color=1d3046&labelColor=182330&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=442772&labelColor=2c194a&logoColor=white" alt="react logo"  />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=442772&labelColor=2c194a&logoColor=white" alt="javascript logo"  />
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&color=442772&labelColor=2c194a&logoColor=white" alt="jquery logo"  />
 </div>
 <br>
 <ul align="center">
