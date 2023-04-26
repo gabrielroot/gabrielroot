@@ -28,7 +28,7 @@
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask logo"  />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo"  />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="40" alt="symfony logo" title="symfony logo" />
+ <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"  />
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo"  />
@@ -42,7 +42,7 @@
 </ul>
 <hr>
 
-### Work Experience
+### Work experience
 
  [<img align="left" height="94px" width="94px" alt="DFranquias" src="https://media.licdn.com/dms/image/C4D0BAQE1-PAIZCuu1g/company-logo_200_200/0/1629112354379?e=2147483647&v=beta&t=LEONDMr0AOeGOQlRe0cG4eA6Hifv6V3BsNZ9QBNnaPk"/>](https://dfranquias.com) 
    
@@ -51,7 +51,7 @@
  Languages & Technologies: `PHP`, `Symfony`, `Mysql`, `React` \
  <br/>
 
-### Nice Personal Project
+### Nice personal project
 
 <a href="https://github.com/gabrielroot/flask-nu-box">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=flask-nu-box&theme=outrun" />
