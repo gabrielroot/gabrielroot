@@ -18,7 +18,7 @@
 </h3> 
 <img src="https://img.shields.io/static/v1?label=I'm&message=Gabriel&color=134da1&style=for-the-badge&logo=GitHub">
 <p>
-  🌱 I’m currently learning <b>Python - Flask</b>. <br>
+  🌱 I’m currently learning <b>Laravel - PHP</b>. <br>
   🎯 I'm currently following a roadmap to improve myself as a <b>Back-End</b> developer.<br>
   ⚡ Fun fact: I really want to become a good developer, but............................... I <b>don't</b> like coffee!
 </p>
