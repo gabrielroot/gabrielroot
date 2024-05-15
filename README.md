@@ -24,8 +24,8 @@
 </p>
 <hr>
 <div align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=1d3046&labelColor=182330&logoColor=white" alt="python logo"  />
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&color=1d3046&labelColor=182330&logoColor=white" alt="flask logo"  />
+ <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=coffeescript&color=1d3046&labelColor=182330&logoColor=white" alt="java logo"  />
+ <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&color=1d3046&labelColor=182330&logoColor=white" alt="Spring logo"  />
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=1d3046&labelColor=182330&logoColor=white" alt="docker logo"  />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=1d3046&labelColor=182330&logoColor=white" alt="php logo"  />
  <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony&color=1d3046&labelColor=182330&logoColor=white"/>
