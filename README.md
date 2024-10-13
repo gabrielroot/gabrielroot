@@ -53,8 +53,12 @@
 <br/>
 <br>
 
-### Nice personal project
+### Nice personal projects
 
+<a href="https://github.com/gabrielroot/MyTour">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=MyTour&theme=outrun" />
+</a>
+*
 <a href="https://github.com/gabrielroot/flask-nu-box">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=flask-nu-box&theme=outrun" />
 </a>
