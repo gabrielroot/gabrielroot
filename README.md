@@ -59,7 +59,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=MyTour&theme=outrun" />
 </a>
 *
-<a href="https://github.com/gabrielroot/flask-nu-box">
+<a href="https://github.com/gabrielroot/my-symfony6-api">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=flask-nu-box&theme=outrun" />
 </a>
 <!-- 
