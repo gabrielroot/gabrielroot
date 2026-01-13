@@ -54,14 +54,12 @@
 <br>
 
 ### Nice personal projects
+###### Projects that I've spent some time doing by myself
+<hr>
 
-<a href="https://github.com/gabrielroot/MyTour">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=MyTour&theme=outrun" />
-</a>
-*
-<a href="https://github.com/gabrielroot/my-symfony6-api">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielroot&repo=my-symfony6-api&theme=outrun" />
-</a>
+- [**MyTour**](https://github.com/gabrielroot/MyTour)
+- [**Symfony6 Api -> Cooperative votes**](https://github.com/gabrielroot/MyTour)
+
 <!-- 
 <div align="center">
  <h5>👁️ Visitor Counter: </h5>
