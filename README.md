@@ -20,7 +20,7 @@
 <p>
   🌱 I’m currently improving my <b>PHP</b> skills. <br>
   🎯 I'm currently following a roadmap to improve myself as a <b>Back-End</b> developer.<br>
-  ⚡ Fun fact: I really want to become a good developer, but............................... I <b>don't</b> like coffee!
+  ⚡ Fun fact: I'm a software developer, but............................... I <b>don't</b> like coffee! ❌☕
 </p>
 <hr>
 <div align="center">
