@@ -43,23 +43,6 @@
 </ul>
 <hr>
 
-### Work experience
-
- [<img align="left" height="94px" width="94px" alt="DFranquias" src="https://media.licdn.com/dms/image/C4D0BAQE1-PAIZCuu1g/company-logo_200_200/0/1629112354379?e=2147483647&v=beta&t=LEONDMr0AOeGOQlRe0cG4eA6Hifv6V3BsNZ9QBNnaPk"/>](https://dfranquias.com) 
-   
- **FullStack Developer** \
- [**DFranquias**](https://dfranquias.com) • Remote • Full-time \
- Languages & Technologies: `PHP`, `Symfony`, `Mysql`, `React` \
-<br/>
-<br>
-
-### Nice personal projects
-###### Projects that I've spent some time doing by myself
-<hr>
-
-- [**MyTour**](https://github.com/gabrielroot/MyTour)
-- [**Symfony6 Api -> Cooperative votes**](https://github.com/gabrielroot/MyTour)
-
 <!-- 
 <div align="center">
  <h5>👁️ Visitor Counter: </h5>
