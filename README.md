@@ -12,27 +12,28 @@
 <img align="right" src="https://wallpapercave.com/uwp/uwp2493552.gif" height="150" width="350" style="object-fit: cover;" alt="Programmer"  />
 
 <h3> 
- <img src="https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif" width="50"> 
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZleXRoNnExeW9ja2R0c3ZqZnkydDN5emZrMms1amJraDN6cmdrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" width="50"> 
  <br>
- Hi there!! 
+ Hi there! 
 </h3> 
-<img src="https://img.shields.io/static/v1?label=I'm&message=Gabriel&color=134da1&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/badge/gabriel-0769AD?label=I'm&style=for-the-badge&logo=sharp&color=D18800&labelColor=black&logoColor=white" alt="jquery logo"  />
 <p>
-  🌱 I’m currently improving my <b>PHP</b> skills. <br>
-  🎯 I'm currently following a roadmap to improve myself as a <b>Back-End</b> developer.<br>
-  ⚡ Fun fact: I'm a software developer, but............................... I <b>don't</b> like coffee! ❌☕
+  🌱 I’m currently learning everything about <b>Kubernetes</b>. <br>
+  🎯 The DevOps & Sysadmin ecosystems have been attracing my attention very much. <br>
+  ⚡ Fun fact: I'm a software developer, but..................................................... I <b>don't</b> like coffee! ❌☕
 </p>
 <hr>
 <div align="center">
- <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=coffeescript&color=1d3046&labelColor=182330&logoColor=white" alt="java logo"  />
- <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&color=1d3046&labelColor=182330&logoColor=white" alt="Spring logo"  />
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=1d3046&labelColor=182330&logoColor=white" alt="docker logo"  />
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=1d3046&labelColor=182330&logoColor=white" alt="php logo"  />
- <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony&color=1d3046&labelColor=182330&logoColor=white"/>
- <br>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=442772&labelColor=2c194a&logoColor=white" alt="react logo"  />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=442772&labelColor=2c194a&logoColor=white" alt="javascript logo"  />
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&color=442772&labelColor=2c194a&logoColor=white" alt="jquery logo"  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=1d3046&labelColor=182330&logoColor=white" alt="php logo"  />
+  <img src="https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony&color=1d3046&labelColor=182330&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=1d3046&labelColor=182330&logoColor=white" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=442772&labelColor=2c194a&logoColor=white" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&color=442772&labelColor=2c194a&logoColor=white" alt="jquery logo"  />
+  <br>
+  <img src="https://img.shields.io/badge/Swarm-323330?style=for-the-badge&logo=docker&color=002EA3&labelColor=002175&logoColor=white" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/kubernetes-0769AD?style=for-the-badge&logo=kubernetes&color=002EA3&labelColor=002175&logoColor=white" alt="jquery logo"  />
+  <img src="https://img.shields.io/badge/ci/cd-0769AD?style=for-the-badge&logo=gitlab&color=E37C00&labelColor=8F5314&logoColor=white" alt="jquery logo"  />
+  <img src="https://img.shields.io/badge/linux-0769AD?style=for-the-badge&logo=linux&color=303645&labelColor=56607B&logoColor=white" alt="jquery logo"  />
 </div>
 <br>
 <ul align="center">
@@ -50,4 +51,5 @@
  <br>
  Thanks for +1
 </div -->
+
 
