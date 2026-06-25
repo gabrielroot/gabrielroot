@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/gabriel-0769AD?label=I'm&style=for-the-badge&logo=sharp&color=D18800&labelColor=black&logoColor=white" alt="jquery logo"  />
 <p>
   🌱 I’m currently learning everything about <b>Kubernetes</b>. <br>
-  🎯 The DevOps & Sysadmin ecosystems have been attracing my attention very much. <br>
+  🎯 The DevOps & Sysadmin ecosystems have been attracting my attention very much. <br>
   ⚡ Fun fact: I'm a software developer, but..................................................... I <b>don't</b> like coffee! ❌☕
 </p>
 <hr>
